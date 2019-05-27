@@ -1,0 +1,4 @@
+# nlp_learning
+NLP
+self_text_classifier.py是学习用朴素贝叶斯进行文本分类
+self_lang_detector.py是用2-gram+朴素贝叶斯进行语种检测
